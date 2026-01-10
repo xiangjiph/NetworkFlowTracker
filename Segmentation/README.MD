@@ -1,0 +1,2 @@
+# Segmentation, Annotation, and Spatial Graph Construction
+Vascular image segmentation, annotation, and spatial graph construction utilized the Vascular Connectome Reconstruction and Analysis (VCRA) package, available at [Github - VCRA](https://github.com/xiangjiph/VCRA). Please refer to the VCRA documentation for installation instructions and usage details.
