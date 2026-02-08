@@ -18,7 +18,7 @@ pip install .[notebook]
 ```
 
 ## Data
-Figure data associated with the publication has been deposited at [zenodo](https://zenodo.org/records/18110466?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjkwOWRlYTNiLTk0MmUtNGZlZi04NjExLTg5ZGU3MTZkODMxNCIsImRhdGEiOnt9LCJyYW5kb20iOiI2NjliNTdkZWE5NTljZTI0ZjA5ODNhNTUzYTMzOThlZiJ9.6wQqW4_jDWfVJDBa2tmrDQg4L5dMOHXH29UV6NCRTr5C0nlytbqv2dETxGGmdnp_lgwGXkbLvijrdGPGdoOW0Q). 
+Figure data associated with the publication has been deposited at [zenodo](https://zenodo.org/records/18110466). 
 
 ## Reference
 If you use `NetworkFlowTracker`, please consider citing the following paper:
@@ -27,12 +27,12 @@ If you use `NetworkFlowTracker`, please consider citing the following paper:
        title={Microvascular architecture and physiological fluctuations constrain the control of cerebral microcirculation},
        author={Ji, Xiang and Zhao, Yuchen and Bai, Lu and Wang, Kai and Kleinfeld, David}, 
        journal={Proceedings of the National Academy of Sciences of the United States of America},
-       volume={},
-       number={},
-       pages={},
+       volume={123},
+       number={3},
+       pages={e2521872123},
        year={2026},
-       publisher={},
-       url={}}
+       url={https://www.pnas.org/doi/abs/10.1073/pnas.2521872123}, 
+       doi = {10.1073/pnas.2521872123},}
 
 ## License
 BSD 3-Clause. See [LICENSE](LICENSE).
